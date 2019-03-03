@@ -1,6 +1,5 @@
 ## Explanation
-Build this game while i was learning java swing.
-
+App that uses Java Swing to draw.
 ## Usage
 
 git clone https://github.com/eraldoforgoli/GUI-Drawing    
